@@ -1,0 +1,22 @@
+/* Style for Heading 1 on both pages */
+h1 {
+    text-decoration: underline;
+}
+
+/* Style for paragraph with class "question" (Index Page) */
+.question {
+    font-weight: bold;
+}
+
+/* Style for copyright element */
+#copyright {
+    font-size: 0.8em;
+    color: gray;
+}
+
+/* Style for profile image (About Page) */
+.profile-img {
+    border: 2px solid #000;
+    padding: 10px;
+    margin: 20px 0;
+}
